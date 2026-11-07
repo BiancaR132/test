@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "48cbe755-37e3-496f-b48d-119d64895f90": {
+      "label": "How to Have a Healthier Experience Online",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=JkwkmzQ4GRs",
+      "duration": 493
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Standord Centre for Health  Education. (2022). Social media and mental health: How to have a healthier experience online | Stanford  [Video]. YouTube. https://www.youtube.com/watch?v=JkwkmzQ4GRs ",
+  "label": "How to Have a Healthier Experience Online",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This video from stanford University sees Dr Nina Vasan explain the role that social media plays in increasing ones anxiety levels. Algorithm influence, social comparison and dopamine influence are described as some of the ways in which social media can haarm an individual.Dr  Vasan provides strategies to adopt when using social media to reduce the impact on anxiety levels. She also goes on to describe behavioursf that would indicate problematic consumption of social media and how to identify them in our own lives and those of our loved ones. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-11-07T06:11:28.952Z",
+  "created_by": "BiancaR132",
+  "updated_at": "2026-11-07T06:11:28.952Z",
+  "updated_by": "BiancaR132"
+}
