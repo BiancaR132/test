@@ -7,12 +7,29 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.mos.cms.futurecdn.net/e3VZtcLnD3ExmoEVWFyLdY.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-11-07T06:04:03.943Z",
   "created_by": "BiancaR132",
   "title": "TEST",
-  "updated_at": "2026-11-07T06:14:42.137Z",
+  "updated_at": "2026-11-07T06:16:27.976Z",
   "updated_by": "BiancaR132",
   "autogenerate": {
     "enabled": false,
