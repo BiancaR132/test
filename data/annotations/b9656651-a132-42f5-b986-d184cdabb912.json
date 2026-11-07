@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of topic from Carlos Sanchez - Stannford centre for health education"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Introduction",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1fdc65c1-49f6-4f96-ba6d-d987fb9603d4"
+    },
+    {
+      "start_time": 35,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlighting the juxtaposition between social media and real life"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comparison",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "2dd4d92c-fe1c-4cd5-9e5b-b4cd8292a1a7"
+    },
+    {
+      "start_time": 45,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Explaining whoDr  Nina Vasan is and the upcoming points"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Introduction",
+          "category": "Background"
+        }
+      ],
+      "uuid": "17409a92-6980-4588-ab44-c54d2c1f3e20"
+    },
+    {
+      "start_time": 96,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Social comparison is  demonstrated through likes/Engagment and can lead to anxiety "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comparison",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "0ff1efa9-0d75-4f71-8ad0-09bdb95ee0fe"
+    },
+    {
+      "start_time": 126,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Content of social media triggers anxiety, promotes unrealistic beauty standards and convince you that your life is not good enough in comparison"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anxiety trigger",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "24f1d09e-3aa1-48bc-b0c7-aee1711611bd"
+    },
+    {
+      "start_time": 155,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Question and answer style filming) The benefits of social media, like social connection, can decrease anxiety"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anxiety reduction",
+          "category": "Strategies"
+        }
+      ],
+      "uuid": "932712d6-dd63-4503-9441-088f7cdf2680"
+    },
+    {
+      "start_time": 183,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loneliness can be combatted with social media - however, those connections are not always authentic/meaningful"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Juxtaposition",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "4718c9ad-e0d0-46e1-a85a-508b66a8f48e"
+    },
+    {
+      "start_time": 226,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Social media can be addictive as it releases dopamine - comparison to effects of drugs and alcohol"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Addiction",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "723f93c1-c9d7-447c-81b4-ef64f00fa002"
+    },
+    {
+      "start_time": 251,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Algorithim intentionally keeps you engaged by feeding you content based on your interactions"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Addiction",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "8e9f4f3c-b32f-4085-a602-2bcb41997d2f"
+    },
+    {
+      "start_time": 272,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Example of content being pushed by the algorithm that increases anxiety levels"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Anxiety trigger",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "ce24f476-21dc-45ec-9aa1-6b72c2081e4b"
+    },
+    {
+      "start_time": 282,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Harder to stop consumption due to instantanious nature of social media"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Addiction",
+          "category": "Social Media Impact"
+        }
+      ],
+      "uuid": "db6a08c6-6532-4390-82dc-74be583dec6e"
+    },
+    {
+      "start_time": 300,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Algorithmic strategies to reduce your anxiety levels when consuming social media "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Strategies for anxiety reduction",
+          "category": "Strategies"
+        }
+      ],
+      "uuid": "15387b4d-73fb-4816-852b-806125543ad6"
+    },
+    {
+      "start_time": 355,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "External strategies one can adopt to reduce anxiety - healthy practices particularly around times of social media consumption"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Strategies for anxiety reduction",
+          "category": "Strategies"
+        }
+      ],
+      "uuid": "ef5d8a1e-de1c-491b-964e-82c86f48a646"
+    },
+    {
+      "start_time": 410,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "identifying signs that social media has become a problem in your life or a loved ones life "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Identifying signs",
+          "category": "Strategies"
+        }
+      ],
+      "uuid": "7dd6c2ae-c339-4e24-9649-f0a7d61e37ba"
+    },
+    {
+      "start_time": 456,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Advice for problematic social media consumption"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Strategies for anxiety reduction",
+          "category": "Strategies"
+        }
+      ],
+      "uuid": "65dac75c-ab50-49b2-a67b-4b3d00c7cd8f"
+    },
+    {
+      "start_time": 486,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits to all involved in the  film and the University"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Credit",
+          "category": "Credits"
+        }
+      ],
+      "uuid": "24a6ab6a-8718-401f-9a60-042a0f630ac1"
+    }
+  ],
   "set": "Default",
   "event_id": "f0ae14f9-68b7-44ad-a4cf-5dfff7823d66",
   "source_id": "48cbe755-37e3-496f-b48d-119d64895f90"
